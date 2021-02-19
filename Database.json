@@ -1,0 +1,21 @@
+[
+  {
+    "ID": 1,
+    "MAC": "8C:45:00:D6:3C:96",
+    "SN": 8798,
+    "IP": "10.86.10.171",
+    "Log": "Re-configurado",
+    "Operacion": 2,
+    "Completed": true
+  },
+  {
+    "ID": 2,
+    "MAC": "C4:AC:59:98:A9:F6",
+    "SN": 8678,
+    "IP": "10.86.10.173",
+    "Log": "Configuracion inicial exitosa",
+    "Operacion": 5,
+    "Completed": true,
+    "DispositivoConfigurado": "2021-02-19 14:56:38"
+  }
+]
