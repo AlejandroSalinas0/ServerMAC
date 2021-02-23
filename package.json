@@ -1,17 +1,30 @@
 {
-  "name": "Codigos",
+  "name": "servermac",
   "version": "1.0.0",
   "description": "",
-  "main": "OtaJS.js",
-  "dependencies": {
-    "body-parser": "^1.19.0",
-    "express": "^4.17.1"
-  },
-  "devDependencies": {},
+  "main": "Estable02.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev2": "nodemon Estable02.js",
+    "dev3": "nodemon Estable03.js",
+    "dev4": "nodemon Estable04.js",
+    "dev5": "nodemon Estable05.js",
+    "dev6": "nodemon Estable06.js",
+    "dev7": "nodemon Estable07.js",
+    "dev8": "nodemon Estable08.js",
+    "dev9": "nodemon Estable09.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejandroSalinas0/ServerMAC.git"
+  },
+  "author": "Alejandro Salinas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlejandroSalinas0/ServerMAC/issues"
+  },
+  "homepage": "https://github.com/AlejandroSalinas0/ServerMAC#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }

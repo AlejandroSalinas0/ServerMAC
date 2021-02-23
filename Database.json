@@ -1,21 +1,34 @@
 [
   {
-    "ID": 1,
-    "MAC": "8C:45:00:D6:3C:96",
-    "SN": 8798,
-    "IP": "10.86.10.171",
-    "Log": "Re-configurado",
-    "Operacion": 2,
-    "Completed": true
+    "ID": 0,
+    "MAC": "C4:AC:59:98:AF:4A",
+    "SN": 42378,
+    "IP": "0.0.0.0",
+    "Operacion": "",
+    "Log": "Configuracion en proceso",
+    "Completed": false,
+    "Fecha_De_Fallo": "2021-02-22 18:29:14"
   },
   {
-    "ID": 2,
-    "MAC": "C4:AC:59:98:A9:F6",
-    "SN": 8678,
-    "IP": "10.86.10.173",
-    "Log": "Configuracion inicial exitosa",
-    "Operacion": 5,
+    "ID": 3,
+    "MAC": "C4:AC:59:98:B0:38",
+    "SN": null,
+    "IP": "0.0.0.0",
+    "Operacion": null,
+    "Log": "Esperando SN",
     "Completed": true,
-    "DispositivoConfigurado": "2021-02-19 14:56:38"
+    "Mina": "La charca",
+    "DispositivoConfigurado": "2021-02-22 12:48:25"
+  },
+  {
+    "ID": 4,
+    "MAC": "C4:AC:59:98:A9:F6",
+    "SN": 76867,
+    "IP": "10.86.10.170",
+    "Operacion": 7,
+    "Log": "Re-Configurado",
+    "Completed": true,
+    "Mina": "Atizapan",
+    "DispositivoActualizado": "2021-02-23 9:08:50"
   }
 ]

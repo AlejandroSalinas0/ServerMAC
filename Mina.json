@@ -1,0 +1,13 @@
+[
+    {
+    "Index":"LASEC_API",     
+    "Mina":"Atizapan",
+    "AP":"SF-HARDWARE", 
+    "Password":"Lasec123.",
+    "Gateway":"10.86.10.254",
+    "Ip_server":"10.86.10.1",
+    "Mask":"255.255.255.0",
+    "Empresa":"Hardware",    
+    "Log":""
+    }
+]
